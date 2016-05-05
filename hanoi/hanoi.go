@@ -12,7 +12,7 @@ func Move(n, from, to, via int) {
 }
 
 func Hanoi(n int) {
-	fmt.Println("Number of disks:", n)
+	fmt.Println("Number 11of disks:", n)
 	Move(n, 1, 2, 3)
 }
 
